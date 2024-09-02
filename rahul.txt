@@ -1,2 +1,3 @@
 this is first text file
 checking the feature practice
+added 3rd feature
